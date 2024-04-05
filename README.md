@@ -12,10 +12,6 @@ Para começar a utilizar o Pass-In, siga os passos abaixo:
 git clone https://github.com/JanieleCristina006/Pass-In-Web-NLW
 
 
-2. Instale as dependências:
-npm install
-
-
 ## Funcionalidades
 
 - Operações CRUD para gerenciar eventos e participantes.
@@ -24,6 +20,6 @@ npm install
 ## Tecnologias Utilizadas
 
 - React
-- Tailwind (para estilização)
+- Tailwind
 
 
